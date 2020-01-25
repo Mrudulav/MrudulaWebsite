@@ -1,2 +1,2 @@
-# MrudulaWebsite
-Personal website
+# aniketgiriyalkar.github.io
+Website
